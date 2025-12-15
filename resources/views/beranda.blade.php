@@ -38,15 +38,6 @@
     </style>
 </head>
 <body>
-    <nav>
-        <a class="judul" href="">Mochammad Rayhan GG Senyum</a>
-
-        <div class="navbar">
-            <a href="">Beranda</a>
-            <a href="">Tentang Saya</a>
-            <a href="">Portofolio</a>
-            <a href="">Hubungi Saya</a>
-        </div>
-    </nav>
+    <h1>Hello world</h1>
 </body>
 </html>

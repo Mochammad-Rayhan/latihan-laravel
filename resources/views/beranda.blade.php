@@ -41,5 +41,7 @@
     <h1>Hello world</h1>
     <p>Nama saya mochammad Rayhan</p>
     <p>Prodi sistem informasi</p>
+    <p>Jalan haji naim</p>
+    <p>Kelurahan Pecel lele</p>
 </body>
 </html>

@@ -42,10 +42,10 @@
         <a class="judul" href="">Mochammad Rayhan GG Senyum</a>
 
         <div class="navbar">
-            <a href="">Home</a>
-            <a href="">About</a>
+            <a href="">Beranda</a>
+            <a href="">Tentang Saya</a>
             <a href="">Portofolio</a>
-            <a href="">Contact Us</a>
+            <a href="">Hubungi Saya</a>
         </div>
     </nav>
 </body>

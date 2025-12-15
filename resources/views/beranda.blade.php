@@ -39,7 +39,7 @@
 </head>
 <body>
     <nav>
-        <a class="judul" href="">Mochammad Rayhan</a>
+        <a class="judul" href="">Mochammad Rayhan GG Senyum</a>
 
         <div class="navbar">
             <a href="">Home</a>
